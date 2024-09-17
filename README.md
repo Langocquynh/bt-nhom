@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
 
     ```bash
-    https://github.com/deltaDC/Quizlet-Clone-Java-Spring-Boot.git
+   https://github.com/Langocquynh/bt-nhom.git
     ```
 
 2. **Navigate to the Project Directory:**
